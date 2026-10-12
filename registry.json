@@ -3,7 +3,7 @@
   "generated_at": "2026-10-02T23:55:07Z",
   "org": "handshake-project-boson",
   "cli": {
-    "min_version": "3.0.2",
+    "min_version": "3.1.0",
     "current": "3.1.0",
     "sha256": {
       "darwin-arm64": "8dc3f834bddf3317558c7d55ff62f1b32c809044571cad5377025d2b757442f3",
