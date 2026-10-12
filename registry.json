@@ -3,14 +3,14 @@
   "generated_at": "2026-10-02T23:55:07Z",
   "org": "handshake-project-boson",
   "cli": {
-    "min_version": "3.1.0",
-    "current": "3.1.0",
+    "min_version": "3.2.0",
+    "current": "3.2.0",
     "sha256": {
-      "darwin-arm64": "8dc3f834bddf3317558c7d55ff62f1b32c809044571cad5377025d2b757442f3",
-      "darwin-amd64": "e1f39e2f1bbb5d32b8f644cab6edd1b5d6bda3063111d22632cfcafcef3dd396",
-      "linux-amd64": "380407c12547368961546889928021874d93405bb8c83973d62d2d0041b92aee",
-      "linux-arm64": "d9a141f7acb03893de9a4814d9df70aa8c798e0d51d0fa72bb14a6648cec877d",
-      "windows-amd64": "967017de7ffe28b139952ce2b668c9f29d116671ac996b1247aa10e4c919a7d3"
+      "darwin-arm64": "b7cb94970747c33d6ce21ee392a7162b8b766c77102a2802effdd2d79074efd8",
+      "darwin-amd64": "bb1b98ab567ea47f6bc6f88508dcb6c46d50f11bfdcc281e2656592ae0af1fa5",
+      "linux-amd64": "b5e7e3401753dab5e445a8a98b367e7053a5497f532c0094137bcff9fc0c9ce5",
+      "linux-arm64": "51cc959f012cfd2f89a81aa238c95918c1a82f59ed2edda57fe30bba6ef12e95",
+      "windows-amd64": "4b2a74b9b001797f7c80407f8be490fda14b65650903e575b517ac84af840e66"
     }
   },
   "task_repos": [
