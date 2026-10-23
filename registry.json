@@ -4,13 +4,20 @@
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "3.2.0",
-    "current": "3.2.0",
+    "current": "3.3.0",
     "sha256": {
-      "darwin-arm64": "b7cb94970747c33d6ce21ee392a7162b8b766c77102a2802effdd2d79074efd8",
-      "darwin-amd64": "bb1b98ab567ea47f6bc6f88508dcb6c46d50f11bfdcc281e2656592ae0af1fa5",
-      "linux-amd64": "b5e7e3401753dab5e445a8a98b367e7053a5497f532c0094137bcff9fc0c9ce5",
-      "linux-arm64": "51cc959f012cfd2f89a81aa238c95918c1a82f59ed2edda57fe30bba6ef12e95",
-      "windows-amd64": "4b2a74b9b001797f7c80407f8be490fda14b65650903e575b517ac84af840e66"
+      "darwin-amd64": "68c4f38c1f94af9fad5a265e3a769cde5288cff7ae91210e2e0bd0bdd18ad546",
+      "darwin-arm64": "d298ca93c6280fa79296f8baa3219300536543166424d04e4ca36e111efd5402",
+      "linux-amd64": "e7dc8e8ac5e7fefb0b76a5731f518b0e43fe9b1bdcbd9383d75c334d6e18fc10",
+      "linux-arm64": "f8dfc86059c0cbe7bda7f7197f363009c7dd7b93bd0410ea2f28d1ceac12c757",
+      "windows-amd64": "8d6c7e27f6dea90d678a7d07b0217f8e375d09d9912c3a3d39fa8dc46232592b"
+    },
+    "downloads": {
+      "darwin-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v3.3.0/claude-harness-3.3.0-darwin-amd64",
+      "darwin-arm64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v3.3.0/claude-harness-3.3.0-darwin-arm64",
+      "linux-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v3.3.0/claude-harness-3.3.0-linux-amd64",
+      "linux-arm64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v3.3.0/claude-harness-3.3.0-linux-arm64",
+      "windows-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v3.3.0/claude-harness-3.3.0-windows-amd64.exe"
     }
   },
   "task_repos": [
