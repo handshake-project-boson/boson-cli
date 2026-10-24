@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-23T23:44:19Z",
+  "generated_at": "2026-10-24T03:02:04Z",
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "4.0.0",
@@ -695,6 +695,12 @@
     },
     {
       "task_repo": "boson-task-97",
+      "prompt_id": "CCP10890",
+      "source_repo": "https://github.com/psf/black",
+      "commit_hash": "8140f6e47ed15762ec0bf0d03ee03869fa655ce2"
+    },
+    {
+      "task_repo": "boson-task-97-e2e",
       "prompt_id": "CCP10890",
       "source_repo": "https://github.com/psf/black",
       "commit_hash": "8140f6e47ed15762ec0bf0d03ee03869fa655ce2"
