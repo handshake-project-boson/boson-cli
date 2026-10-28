@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-27T20:42:35Z",
+  "generated_at": "2026-10-28T01:25:20Z",
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "4.1.0",
@@ -65,6 +65,12 @@
     },
     {
       "task_repo": "boson-task-41",
+      "prompt_id": "CCP10416",
+      "source_repo": "https://github.com/pytorch/pytorch",
+      "commit_hash": "4f132cdfdab3699202dc36d5cf3a4a752ca877b7"
+    },
+    {
+      "task_repo": "boson-task-41-df",
       "prompt_id": "CCP10416",
       "source_repo": "https://github.com/pytorch/pytorch",
       "commit_hash": "4f132cdfdab3699202dc36d5cf3a4a752ca877b7"
@@ -460,6 +466,12 @@
       "commit_hash": "df8fa160fcaf21c077847b57a07362cfe942b34b"
     },
     {
+      "task_repo": "boson-task-48-df",
+      "prompt_id": "CCP10843",
+      "source_repo": "https://github.com/DeusData/codebase-memory-mcp",
+      "commit_hash": "df8fa160fcaf21c077847b57a07362cfe942b34b"
+    },
+    {
       "task_repo": "boson-task-48-fork",
       "prompt_id": "CCP10843",
       "source_repo": "https://github.com/DeusData/codebase-memory-mcp",
@@ -473,6 +485,12 @@
     },
     {
       "task_repo": "boson-task-75",
+      "prompt_id": "CCP10844",
+      "source_repo": "https://github.com/metabase/metabase",
+      "commit_hash": "0869369208c0422dd26b9c6c54651a17f8629924"
+    },
+    {
+      "task_repo": "boson-task-75-df",
       "prompt_id": "CCP10844",
       "source_repo": "https://github.com/metabase/metabase",
       "commit_hash": "0869369208c0422dd26b9c6c54651a17f8629924"
@@ -682,6 +700,12 @@
       "commit_hash": "421734b2b79d2630da50a12b2a870fa86c55a1eb"
     },
     {
+      "task_repo": "boson-task-49-df",
+      "prompt_id": "CCP10881",
+      "source_repo": "https://github.com/thanos-io/thanos",
+      "commit_hash": "421734b2b79d2630da50a12b2a870fa86c55a1eb"
+    },
+    {
       "task_repo": "boson-task-49-fork",
       "prompt_id": "CCP10881",
       "source_repo": "https://github.com/thanos-io/thanos",
@@ -797,6 +821,12 @@
     },
     {
       "task_repo": "boson-task-8",
+      "prompt_id": "CCP10902",
+      "source_repo": "https://github.com/marmelab/react-admin",
+      "commit_hash": "bdce64da925b2c9bbef45c182d8a73b201a314b9"
+    },
+    {
+      "task_repo": "boson-task-8-df",
       "prompt_id": "CCP10902",
       "source_repo": "https://github.com/marmelab/react-admin",
       "commit_hash": "bdce64da925b2c9bbef45c182d8a73b201a314b9"
@@ -988,6 +1018,12 @@
       "commit_hash": "9b4f9434f46fdc5c1a6e9e936af2868340cdbc48"
     },
     {
+      "task_repo": "boson-task-83-df",
+      "prompt_id": "CCP10930",
+      "source_repo": "https://github.com/dotnet/eShop",
+      "commit_hash": "9b4f9434f46fdc5c1a6e9e936af2868340cdbc48"
+    },
+    {
       "task_repo": "boson-task-83-fork",
       "prompt_id": "CCP10930",
       "source_repo": "https://github.com/dotnet/eShop",
@@ -1096,6 +1132,12 @@
       "commit_hash": "e7cade68af10a0af1af5672a5ee0128a7fdc45d8"
     },
     {
+      "task_repo": "boson-task-30-df",
+      "prompt_id": "CCP10956",
+      "source_repo": "https://github.com/zauberzeug/nicegui",
+      "commit_hash": "e7cade68af10a0af1af5672a5ee0128a7fdc45d8"
+    },
+    {
       "task_repo": "boson-task-30-fork",
       "prompt_id": "CCP10956",
       "source_repo": "https://github.com/zauberzeug/nicegui",
@@ -1145,6 +1187,12 @@
     },
     {
       "task_repo": "boson-task-37",
+      "prompt_id": "CCP10960",
+      "source_repo": "https://github.com/taskforcesh/bullmq",
+      "commit_hash": "c2c3d1ddbd7f698831199cf043c22359e20b26f7"
+    },
+    {
+      "task_repo": "boson-task-37-df",
       "prompt_id": "CCP10960",
       "source_repo": "https://github.com/taskforcesh/bullmq",
       "commit_hash": "c2c3d1ddbd7f698831199cf043c22359e20b26f7"
@@ -1414,6 +1462,12 @@
       "commit_hash": "d0fb02fd6be3fcaef539628b3368f16e29c9937c"
     },
     {
+      "task_repo": "boson-task-44-df",
+      "prompt_id": "CCP11022",
+      "source_repo": "https://github.com/tensorflow/tensorflow",
+      "commit_hash": "d0fb02fd6be3fcaef539628b3368f16e29c9937c"
+    },
+    {
       "task_repo": "boson-task-44-fork",
       "prompt_id": "CCP11022",
       "source_repo": "https://github.com/tensorflow/tensorflow",
@@ -1445,6 +1499,12 @@
     },
     {
       "task_repo": "boson-task-1",
+      "prompt_id": "CCP11029",
+      "source_repo": "https://github.com/brettwooldridge/hikaricp",
+      "commit_hash": "a4d93f4f85517f90e632b795486d7102e933d7ff"
+    },
+    {
+      "task_repo": "boson-task-1-df",
       "prompt_id": "CCP11029",
       "source_repo": "https://github.com/brettwooldridge/hikaricp",
       "commit_hash": "a4d93f4f85517f90e632b795486d7102e933d7ff"
@@ -1565,6 +1625,12 @@
     },
     {
       "task_repo": "boson-task-54",
+      "prompt_id": "CCP11067",
+      "source_repo": "https://github.com/swc-project/swc",
+      "commit_hash": "78b41b59c89c50fca16edaf80d1400beb7c1a801"
+    },
+    {
+      "task_repo": "boson-task-54-df",
       "prompt_id": "CCP11067",
       "source_repo": "https://github.com/swc-project/swc",
       "commit_hash": "78b41b59c89c50fca16edaf80d1400beb7c1a801"
@@ -1691,6 +1757,12 @@
     },
     {
       "task_repo": "boson-task-4",
+      "prompt_id": "CCP11113",
+      "source_repo": "https://github.com/mermaid-js/mermaid",
+      "commit_hash": "cea4932fa95313c102ab67ed0e285d0141972d4e"
+    },
+    {
+      "task_repo": "boson-task-4-df",
       "prompt_id": "CCP11113",
       "source_repo": "https://github.com/mermaid-js/mermaid",
       "commit_hash": "cea4932fa95313c102ab67ed0e285d0141972d4e"
