@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-29T14:23:22Z",
+  "generated_at": "2026-10-29T19:35:47Z",
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "4.3.0",
@@ -1572,7 +1572,8 @@
       "task_repo": "boson-task-37-df",
       "prompt_id": "CCP10960",
       "source_repo": "https://github.com/taskforcesh/bullmq",
-      "commit_hash": "c2c3d1ddbd7f698831199cf043c22359e20b26f7"
+      "commit_hash": "c2c3d1ddbd7f698831199cf043c22359e20b26f7",
+      "island_exempt": true
     },
     {
       "task_repo": "boson-task-37-fork",
