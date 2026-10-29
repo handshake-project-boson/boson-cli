@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-28T23:01:11Z",
+  "generated_at": "2026-10-29T01:34:02Z",
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "4.3.0",
@@ -2519,7 +2519,8 @@
       "task_repo": "boson-task-tic-tac-toe",
       "prompt_id": "CCP99001",
       "source_repo": "",
-      "commit_hash": ""
+      "commit_hash": "",
+      "island_exempt": true
     }
   ],
   "harness_fingerprints": {}
