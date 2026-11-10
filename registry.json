@@ -3,21 +3,21 @@
   "generated_at": "2026-11-10T01:35:38Z",
   "org": "handshake-project-boson",
   "cli": {
-    "min_version": "5.0.4",
-    "current": "5.0.4",
+    "min_version": "5.1.0",
+    "current": "5.1.0",
     "sha256": {
-      "darwin-amd64": "40e1fa49cf16bb467b9e0dd897b30da49e03b31435decf9f6fbc398f5ac7d9bd",
-      "darwin-arm64": "b9a67b3920118dfb7aaee9c95e6f8de3e045ce7c37427a6f33658a919c124826",
-      "linux-amd64": "ad46d52011262c3766f93331044045e940ed9715ca1a51e5190c74b726962e72",
-      "linux-arm64": "2200cd62ae80157213cfd3edc0b4ace4f3d2c4fcde469da8adb9ebd1572c24bd",
-      "windows-amd64": "f041a175236e3cfe7352b673e4f6cb211263dca7eb3e46205123c18cc5ff7f74"
+      "darwin-amd64": "1c72eec9080da7f7602d09a7d8debcefae851912bbd501d890c825b09555443e",
+      "darwin-arm64": "c1043e7ac69f6308c8ccf34ea198efe4285609c118754391b1f6f613edee3ee0",
+      "linux-amd64": "22653c1eaa9a98b21f602e9bc3129e9f023b2a1f6af3aa2f7966d0fab95f96c7",
+      "linux-arm64": "d36eb108fa8f38f2923c27bc9343f2378d16471a6449574d609be53f1af7e7f7",
+      "windows-amd64": "7ed46ac2e157038968fe180ff9ab1354c30d71de8f700812d2e030e53ae53439"
     },
     "downloads": {
-      "darwin-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.0.4/claude-harness-5.0.4-darwin-amd64",
-      "darwin-arm64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.0.4/claude-harness-5.0.4-darwin-arm64",
-      "linux-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.0.4/claude-harness-5.0.4-linux-amd64",
-      "linux-arm64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.0.4/claude-harness-5.0.4-linux-arm64",
-      "windows-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.0.4/claude-harness-5.0.4-windows-amd64.exe"
+      "darwin-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.1.0/claude-harness-5.1.0-darwin-amd64",
+      "darwin-arm64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.1.0/claude-harness-5.1.0-darwin-arm64",
+      "linux-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.1.0/claude-harness-5.1.0-linux-amd64",
+      "linux-arm64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.1.0/claude-harness-5.1.0-linux-arm64",
+      "windows-amd64": "https://github.com/handshake-project-boson/boson-cli/releases/download/v5.1.0/claude-harness-5.1.0-windows-amd64.exe"
     }
   },
   "task_repos": [
