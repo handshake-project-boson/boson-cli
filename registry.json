@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T01:35:38Z",
+  "generated_at": "2026-11-23T09:31:05Z",
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "5.1.0",
@@ -71,12 +71,6 @@
     },
     {
       "task_repo": "boson-task-55-fork",
-      "prompt_id": "CCP10414",
-      "source_repo": "https://github.com/pocketbase/pocketbase",
-      "commit_hash": "507ecb264b6155ad3677d661115ff277a48a5cdd"
-    },
-    {
-      "task_repo": "boson-task-55-r2",
       "prompt_id": "CCP10414",
       "source_repo": "https://github.com/pocketbase/pocketbase",
       "commit_hash": "507ecb264b6155ad3677d661115ff277a48a5cdd"
