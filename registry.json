@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T19:23:54Z",
+  "generated_at": "2026-11-24T20:24:19Z",
   "org": "handshake-project-boson",
   "cli": {
     "min_version": "5.1.0",
@@ -1719,6 +1719,12 @@
     },
     {
       "task_repo": "boson-task-10",
+      "prompt_id": "CCP10913",
+      "source_repo": "https://github.com/charmbracelet/wish",
+      "commit_hash": "8b65ba4d623156dc7f288ddfbdce8820ee4784dc"
+    },
+    {
+      "task_repo": "boson-task-10-fork",
       "prompt_id": "CCP10913",
       "source_repo": "https://github.com/charmbracelet/wish",
       "commit_hash": "8b65ba4d623156dc7f288ddfbdce8820ee4784dc"
